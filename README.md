@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Santhosh071/Santhosh071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hi, I’m **Santhoshkumar M** (@Santhosh071) — welcome to my corner of the internet!  
+🎓 I'm in my final year of the M.Tech (Integrated) Software Engineering program at **VIT Chennai**, where I specialize in blending **AI innovation** with **cloud-native development**.
 
-Here are some ideas to get you started:
+🧠 I’m fascinated by:
+- The limitless potential of **Large Language Models**
+- Building ethical and intelligent **AI solutions**
+- Designing applications that scale on the **Cloud**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Toolbox:  
+Python • Java • SQL • Git • VSCode • Cloud
+
+🌱 Currently diving deeper into:  
+> AI explainability • Multi-modal LLMs • Cloud architecture patterns
+
+💬 I’m always open to collaboration, research discussions, or cool project ideas — let’s connect and create something impactful!
+
+📫 Reach me at: santhoshkumarmurugan2004@gmail.com
